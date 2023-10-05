@@ -1,11 +1,10 @@
-#iclude<studio.h>
+#include <studio.h>
 /**
- * main - Enrty point
- *
- * Return: Alaways 0 (Success)
+ * main - Aprogram that prints a line with puts function
+ * Return: 0 (Success)
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
