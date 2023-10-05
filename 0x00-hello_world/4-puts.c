@@ -1,4 +1,3 @@
-#!/bin/bash
 #iclude<studio.h>
 /**
  * main - Enrty point
